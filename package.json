@@ -1,0 +1,15 @@
+{
+  "name": "pinia-typing-bug",
+  "version": "1.0.0",
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@vue/composition-api": "1.4.0",
+    "vue": "2.6.14",
+    "vue-router": "3.5.3"
+  },
+  "devDependencies": {
+    "typescript": "4.5.2"
+  }
+}
